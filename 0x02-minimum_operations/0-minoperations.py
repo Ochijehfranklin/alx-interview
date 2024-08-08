@@ -21,7 +21,8 @@ def minOperations(n):
         while x <= n:
             if n % x == 0:
                 operations += x
-                n = n / i
+                n = n / x
             else:
                 x += 1
         return operations
+
