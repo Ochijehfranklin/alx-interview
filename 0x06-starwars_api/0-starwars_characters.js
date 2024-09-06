@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 /**
  * Prints all characters of a Star Wars movie.
  * The first positional argument passed is the Movie ID
